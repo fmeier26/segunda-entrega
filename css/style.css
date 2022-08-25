@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+
+}
+
+header {
+    background-color: pink;
+
+}
+
+.section {
+    background-color: rgb(57, 153, 153);
+}
+
+body {
+    text-align: center;
+    background-color: rgb(57, 153, 153);
+}
+
+.logo {
+    height: 300px;
+    width: 300px;
+    
+    
+    
+    
+       
+
+}
+
+.texto {
+    padding-top: 10px;
+    text-align: start;
+
+
+
+}
+
+
+.container-fluid {
+    background-color:  rgb(57, 153, 153);
+    text-align: center;
+}
+
+
+
+
+.imgcarousel {
+    height: 300px;
+    object-fit: cover;
+    
+    
+}
+    
+   
+
+
+
+.estefi {
+    text-align: start;
+    
+}
+
+.navegador {
+    border-bottom: 1px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+a {
+    color: black;
+}
+
+
+
+.card {
+    background-color: aquamarine;
+    
+}
+
+.shark {
+     height: 675px;
+}
+
+.rojo {
+    height: 675px;
+}
