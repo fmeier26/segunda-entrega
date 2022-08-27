@@ -1,0 +1,53 @@
+
+@import "variable";
+
+
+header {
+    text-align: center;
+    background-color: pink;
+
+
+
+    nav {
+        background-color: aquamarine;
+          
+
+    }
+
+    .logo { 
+        height: 300px;
+        height: 300px;
+
+    }
+
+    .imgcarousel {
+        height: 350px;
+        object-fit: cover;
+              
+        
+        
+    }  
+
+}
+
+footer {
+    border: 1px solid black;
+
+    a {
+        color: green;
+        font-size: $tam-fuente;
+        text-decoration: none;
+    }
+
+    &:hover {
+        background-color: red;
+    }
+    
+}
+
+section {
+    background-color: $color-principal;
+    text-align: start;
+    font-size: $tam-fuente;
+    
+}
